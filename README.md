@@ -53,5 +53,5 @@ Raahi is a full-stack web application that lets users generate smart travel itin
 
 ## 📄 Contribution & Code of Conduct
 
-- [📌 Contribution Guidelines](GitHub/CONTRIBUTING.md)
-- [📜 Code of Conduct](GitHub/CODE_OF_CONDUCT.md)
+- [📌 Contribution Guidelines](Github/CONTRIBUTING.md)
+- [📜 Code of Conduct](Github/CODE_OF_CONDUCT.md)
