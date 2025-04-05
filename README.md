@@ -39,14 +39,15 @@ Raahi is a full-stack web application that lets users generate smart travel itin
 
 ## 👨‍💻 Team
 
-| Name     | Role       | Responsibilities                         |
-|----------|------------|------------------------------------------|
-| Sandip   | `@Lead`     | Team Leader, Roadmap, React, APIs         |
-| Sandhita | `@Designer` | Styling, responsiveness                  |
-| Sharanya | `@Layouts`  | Page layout, frontend structure          |
-| Abhirup  | `@Integrator`| State mgmt, API connection logic        |
-| Ayan     | `@Backend`  | Django logic, DB integration             |
-| Soumya   | `@Docs`     | Final report, API testing, bug logging   |
+| Name     | Role         | Responsibilities                                        | GitHub Profile                        |
+|----------|--------------|---------------------------------------------------------|----------------------------------------|
+| Sandip   | `@Lead`      | Project management, frontend architecture, API systems | [@QuantumCoderrr](https://github.com/QuantumCoderrr) |
+| Sandhita | `@Designer`  | UI/UX design, responsive layout implementation         | [@CelestialCoderrr](https://github.com/CelestialCoderrr) |
+| Sharanya | `@Layouts`   | Page structuring, component hierarchy, accessibility   | [@CodeBenderrr](https://github.com/CodeBenderrr) |
+| Abhirup  | `@Integrator`| State management, API integration logic, data flow     | [@MesvRon](https://github.com/MesvRon) |
+| Ayan     | `@Backend`   | Backend development, Django models, DB connectivity    | [@Ayansanki](https://github.com/Ayansanki) |
+| Soumya   | `@Docs`      | Documentation, bug reporting, API endpoint testing     | [@Soumrock](https://github.com/Soumrock) |
+
 
 ---
 
