@@ -1,2 +1,56 @@
 # Raahi
-AI-powered travel planner with personalized itineraries and real-time travel insights.
+
+## 📌 Overview
+Raahi is a full-stack web application that lets users generate smart travel itineraries based on preferences like destination, budget, duration, and interests. The system integrates AI, real-time APIs, and intuitive UI/UX to deliver dynamic travel experiences. It also tracks weather forecasts, flight & hotel prices, and recommends optimal travel routes.
+
+## 🚀 Features
+- 🧭 AI-generated itinerary suggestions
+- 🌦 Real-time weather updates
+- ✈️ Flight & hotel data from Skyscanner / Amadeus APIs
+- 📍 Google Maps route planning and place discovery
+- 💾 Save, modify, or regenerate trips
+- 🧠 OpenAI-powered chatbot assistant for queries
+- 📊 Budget planner with smart tips
+- 📱 Responsive UI with smooth user experience
+
+## 🛠 Tech Stack
+### 🌐 Frontend
+- HTML5, CSS3, JavaScript
+- TailwindCSS / Bootstrap (CSS framework)
+- React (UI and component-based frontend)
+- Google Maps API
+
+### 🧪 Testing & Documentation
+- Postman / Swagger (API Testing)
+- Markdown for docs
+
+### 🧠 Backend
+- Python (Django)
+- RESTful API
+- OpenAI API
+- Skyscanner / Amadeus APIs
+- Weather API (e.g., OpenWeatherMap)
+
+### 🗄 Database
+- PostgreSQL (main structured DB)
+- MongoDB (for logs and AI data cache)
+
+---
+
+## 👨‍💻 Team
+
+| Name     | Role       | Responsibilities                         |
+|----------|------------|------------------------------------------|
+| Sandip   | `@Lead`     | Team Leader, Roadmap, React, APIs         |
+| Sandhita | `@Designer` | Styling, responsiveness                  |
+| Sharanya | `@Layouts`  | Page layout, frontend structure          |
+| Abhirup  | `@Integrator`| State mgmt, API connection logic        |
+| Ayan     | `@Backend`  | Django logic, DB integration             |
+| Soumya   | `@Docs`     | Final report, API testing, bug logging   |
+
+---
+
+## 📄 Contribution & Code of Conduct
+
+- [📌 Contribution Guidelines](GitHub/CONTRIBUTING.md)
+- [📜 Code of Conduct](GitHub/CODE_OF_CONDUCT.md)
